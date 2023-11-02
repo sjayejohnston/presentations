@@ -1,5 +1,5 @@
 ---
-title: "FLT - NSS+GO"
+title: "Faculty Leadership Meeting - NSS & Graduate Outcomes"
 format: 
   revealjs: 
     slideNumber: true
@@ -138,7 +138,7 @@ Commencing with the 2017/18 graduate cohort, the Graduate Outcomes survey has re
 - For traditional programmes it can be tricky as 15 months is a poor census point for some. 
   - For Psych - competitive general market and after PG study, only 3 months to secure a job. Especially an issue considering those interested in clinical.
   
-- But if they do eventually get that graduate job that would be great, except...
+- But if they do eventually get that graduate job that would be great, except 15 months is snapshot point for league tables...
 
 ---
 

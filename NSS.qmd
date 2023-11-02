@@ -1,6 +1,7 @@
 ---
 title: "Faculty Leadership Meeting - NSS & Graduate Outcomes"
 format: 
+  pdf: default
   revealjs: 
     slideNumber: true
     theme: simple
@@ -12,6 +13,8 @@ format:
     linestretch: 1.2
     whitespace: 1.5
     footer: "Steve Johnston"
+
+
 ---
 
 ## Introduction

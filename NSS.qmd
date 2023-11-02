@@ -3,118 +3,164 @@ title: "FLT - NSS+GO"
 format: 
   revealjs: 
     slideNumber: true
+    theme: simple
     width: 1280
     height: 720
     margin: 0.1
     minScale: 0.2
     maxScale: 1.0
+    linestretch: 1.2
+    whitespace: 1.5
+    footer: "Steve Johnston"
 ---
 
 ## Introduction
-### Unpacking NSS Metrics
+### Unpacking NSS and Graduate Outcomes (GO) Metrics
 
+- Why bother perforning well in domestic league tables (DLT)?
 - Overview of the National Student Survey
 - Importance of NSS for UK universities
-- What differentiates top universities from the rest?
+- What aew GO and how it fits in?
 
 ---
 
-## Overall Satisfaction
-### The Pinnacle of University Performance
+## Financial Challenges & Current Environment.
 
-- Definition and importance of overall satisfaction
-- Strategies for high performance
-- Examples from top universities
-
----
-
-## Teaching Quality
-### Excellence in Teaching
-
-- Components of high-quality teaching
-- How top universities excel in teaching metrics
-- Key initiatives for improvement
+- Freeze on home student fee means decreasing return with inflation but costs rising…
+- Home fee for equity with original set value should be £14,000
+- Maintaining good retention and progression is a challenge with current losses in the 8-10% range (BP update at end of moneh) compared with historical 5%.
 
 ---
 
-## Academic Support
-### Enhancing Student Support
+## How we react.
 
-- Understanding academic support metrics
-- Best practices from leading universities
-- Impact of support on student success
+- Along with strategies to improve retentions...we take more students to offset.
+- But we aren't the only ones that are in this position..so..
 
----
+::: {.callout-tip}
+# Competitive Market
+This presents a yearly risk as we are a 'clearing' University with 1000+ places per year needed.
+:::
 
-## Learning Opportunities
-### Beyond the Classroom
-
-- Range of learning opportunities considered in NSS
-- How leading universities provide diverse experiences
-- Benefits of expansive learning options
+- Concern is that student rely on 'Good University...' table and guides that influence their choice
+- NSS and Graduate Outcomes are two key measures that feed into those tables.
 
 ---
 
-## Learning Resources
-### Resources for Success
+## NSS
 
-- Essential learning resources for students
-- Differentiators in resource provision
-- Case studies of excellent resource management
+26 Questions grouped by themes.
+
+Questions are answered on a 'positivity' likert scale.
+
+
+* ***Theme 1: Teaching on my course 4Q***
+  + How good are teaching staff at explaining things?
+  + How often do teaching staff make the subject engaging?
+
+* ***Theme 2: Learning Opportunities 5Q***
+  + To what extent have you had the chance to explore ideas and concepts in depth?
+  + To what extent does your course have the right balance of directed and independent study?
+  
+---
+
+## NSS
+
+* ***Theme 3: Assessment & Feedback 5Q***
+  + How clear are the marking criteria used to assess your work?
+  + How fair has the marking and assessment been on your course?
+  
+* ***Theme 4: Academic Support 2Q***
+  + How easy was it to contact teaching staff when you needed to?
+  + How well have teaching staff supported your learning?
+  
+* ***Theme 5: Organisation and Management 2Q***
+  + How well organised is your course?
+  + How well were any changes to teaching on your course communicated?
+  
+---
+
+## NSS
+
+* ***Theme 6: Learning Resources 3Q***
+  + How well have IT resources and facilities supported your learning?
+
+* ***Theme 7: Student Voice 3Q***
+  + To what extent are students' opinions about the course valued by staff?
+  + How clear is it that students' feedback on the course is acted on?
+  
+* ***Unthemed 2Q***
+  + How well does the student union (association or guild) represent students' academic interests?
+  + How well communicated was information about your University/College's mental wellbeing support services?
+  
+---
+
+## How did we do?
+### Uni and Faculty - not great!
+
+![NSS Overall & Teaching](NSS_IM1.png)
+---
+
+![NSS Learning Opportunities, Assessment & Feedback, Academic Support](NSS_IM2.png)
+---
+
+![NSS Organisation and Management, Learning Resources & Student Voice](NSS_IM3.png)
 
 ---
 
-## Student Voice
-### Listening to the Learners
+## What we are doing about it now...
 
-- Role of student feedback in university improvement
-- How top universities engage with student voice
-- Creating effective feedback loops
+- Targeted interventions as a pilot for a new way forward...
+  - Meetings with Faculty Exec, PVC & School for Nursing and Pschology.
+- School level meetings with PVC to discuss action plans.
 
----
-
-## Assessment and Feedback
-### Fair and Constructive Evaluation
-
-- Importance of assessment and feedback in NSS
-- Practices that lead to high scores
-- Examples of innovative assessment methods
+Action plans (AP) being developed to address the main areas for improvement in each of the Schools and the AP will be updated for presentation to the University Education Committee.
 
 ---
 
-## Organization and Management
-### Seamless Course Management
+## Graduate Outcomes (GO)
 
-- Organizational aspects impacting student satisfaction
-- Techniques for smooth course delivery
-- Examples of well-managed university programs
+Essentially how successful our student are at gaining graduate level employment post-graduation.
 
----
 
-## Sense of Community
-### Fostering an Inclusive Environment
+Commencing with the 2017/18 graduate cohort, the Graduate Outcomes survey has replaced the Destinations of Leavers from Higher Education (DLHE) survey. 
 
-- The impact of community feeling on NSS scores
-- Strategies to build a strong campus community
-- Success stories of community building
+- Graduate Outcomes collects information about the activities and perspectives of graduates approximately 15 months after they complete their HE studies.
+- "Graduate Level" jobs classified on the basis of whether they “normally require knowledge and skills developed on a three-year university degree to enable them to perform the associated tasks competently”
 
 ---
 
-## Employment and Career Preparedness
-### Equipping for the Future
+## Graduate Outcomes (GO)
 
-- Course's role in career development
-- How universities can enhance employability
-- Linking academic learning with career success
+- If you are still in HE at time of survey you don't get classed as not being in graduate employment but undertaking further study.
+
+- As a Faculty we are fortunate that the commissioned professional programmes exit straight into employment.
+- For traditional programmes it can be tricky as 15 months is a poor census point for some. 
+  - For Psych - competitive general market and after PG study, only 3 months to secure a job. Especially an issue considering those interested in clinical.
+  
+- But if they do eventually get that graduate job that would be great, except...
 
 ---
 
-## Conclusion
-### Striving for Excellence in Higher Education
+## Been a downhill trend...
 
-- Recap of key NSS metrics for university success
-- Commitment to continuous improvement
-- The holistic approach to student experience
+![Histrical GO Scores](GO_HISTORY.png)
+
+As a Faculty we are developing years in industry that will aim to increase employment at a graduate level within 15 months for those subjects that don't have jobs automatically.
+
+--- 
+
+## It all comes together...
+
+These two metrics as well as other 'Valude added' contribute to overall tables.
+
+![Good University Guide, 2024](GUG_IM1.png)
+
+---
+
+## With Swansea overall....
+
+![Good University Guide, 2024](GUG_IM2.png)
 
 ---
 

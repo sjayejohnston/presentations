@@ -1,0 +1,126 @@
+---
+title: "FLT - NSS+GO"
+format: 
+  revealjs: 
+    slideNumber: true
+    width: 1280
+    height: 720
+    margin: 0.1
+    minScale: 0.2
+    maxScale: 1.0
+---
+
+## Introduction
+### Unpacking NSS Metrics
+
+- Overview of the National Student Survey
+- Importance of NSS for UK universities
+- What differentiates top universities from the rest?
+
+---
+
+## Overall Satisfaction
+### The Pinnacle of University Performance
+
+- Definition and importance of overall satisfaction
+- Strategies for high performance
+- Examples from top universities
+
+---
+
+## Teaching Quality
+### Excellence in Teaching
+
+- Components of high-quality teaching
+- How top universities excel in teaching metrics
+- Key initiatives for improvement
+
+---
+
+## Academic Support
+### Enhancing Student Support
+
+- Understanding academic support metrics
+- Best practices from leading universities
+- Impact of support on student success
+
+---
+
+## Learning Opportunities
+### Beyond the Classroom
+
+- Range of learning opportunities considered in NSS
+- How leading universities provide diverse experiences
+- Benefits of expansive learning options
+
+---
+
+## Learning Resources
+### Resources for Success
+
+- Essential learning resources for students
+- Differentiators in resource provision
+- Case studies of excellent resource management
+
+---
+
+## Student Voice
+### Listening to the Learners
+
+- Role of student feedback in university improvement
+- How top universities engage with student voice
+- Creating effective feedback loops
+
+---
+
+## Assessment and Feedback
+### Fair and Constructive Evaluation
+
+- Importance of assessment and feedback in NSS
+- Practices that lead to high scores
+- Examples of innovative assessment methods
+
+---
+
+## Organization and Management
+### Seamless Course Management
+
+- Organizational aspects impacting student satisfaction
+- Techniques for smooth course delivery
+- Examples of well-managed university programs
+
+---
+
+## Sense of Community
+### Fostering an Inclusive Environment
+
+- The impact of community feeling on NSS scores
+- Strategies to build a strong campus community
+- Success stories of community building
+
+---
+
+## Employment and Career Preparedness
+### Equipping for the Future
+
+- Course's role in career development
+- How universities can enhance employability
+- Linking academic learning with career success
+
+---
+
+## Conclusion
+### Striving for Excellence in Higher Education
+
+- Recap of key NSS metrics for university success
+- Commitment to continuous improvement
+- The holistic approach to student experience
+
+---
+
+## Q&A
+### Open Discussion and Questions
+
+- Time for audience interaction and queries.
+
+---
